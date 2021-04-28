@@ -1,7 +1,7 @@
 Front End Developer 
 ===================
 
-Kagool
+[Kagool](https://www.bekagool.com/)
 
 London
 
