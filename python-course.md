@@ -1,5 +1,28 @@
-CIND830: Python Programming for Data Science
-============================================
+CIND 830 - Python Programming for Data Science
+==============================================
+
+Delivery Options Online
+
+Program Area Engineering and Architectural Science
+
+Duration 42.0 Hours
+
+Credit Type Certificate and Degree Credit
+
+### CIND 830 - DHV
+
+[Expand or collapse CIND 830 - DHV](https://continuing.ryerson.ca/search/publicCourseSearchDetails.do?method=load&courseId=3870952#courseSectionDetails_7370191)
+
+Spring/Summer 2021
+
+Online
+
+Fri 4:30PM - 10:30PM\\
+Jun 25, 2021 to Aug 13, 2021
+
+Available
+
+$1,027.79
 
 Course Description
 ==================
